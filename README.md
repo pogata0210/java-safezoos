@@ -11,3 +11,4 @@ Security is:
 * ROLE animal should be allowed to access /animals
 * ROLE MGR (manager) should be allowed to only access /actuator (stretch goal).
 * Everyone should be allowd to access the swagger ui!
+project at https://github.com/pogata0210/java-zoos/
